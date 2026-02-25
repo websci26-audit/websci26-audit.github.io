@@ -17,4 +17,4 @@ Please use the direct links below to access the datasets. These files contain th
 
 
 ---
-*Generated for the paper _Discrepancies in the Geotargeting of Spanish vs English Google Search Results During the 2024 US Elections_.*
+*Generated for the paper "Discrepancies in the Geotargeting of Spanish vs English Google Search Results During the 2024 US Elections", submitted to the WebSci'26 Poster track.*
