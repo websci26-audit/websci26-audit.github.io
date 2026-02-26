@@ -5,7 +5,7 @@ title: Home
 
 # English-Spanish Google Search Audit of 2024 US Elections 
 
-This page serves as the supplementary data repository for the submitted manuscript. To maintain the integrity of the double-blind review process, all data has been anonymized.
+This page serves as the supplementary data repository for the submitted manuscript. To maintain the integrity of the double-blind review process, no authors are mentioned.
 
 ---
 
