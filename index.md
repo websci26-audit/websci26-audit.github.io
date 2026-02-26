@@ -1,5 +1,6 @@
 ---
-layout: none
+layout: default
+title: Home
 ---
 
 # English-Spanish Google Search Audit of 2024 US Elections 
