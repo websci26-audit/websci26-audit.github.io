@@ -10,7 +10,7 @@ This page serves as the supplementary data repository for the submitted manuscri
 ---
 
 ## 📂 Supplementary Data Files
-Please use the direct links below to access the datasets. These files contain the raw outputs discussed in the Data & Methods  section of the paper.
+Please use the direct links below to access the files. They contain the information discussed in the Data & Methods section of the paper.
 
 * **[List of localities (CSV)](./data/localities.csv)** *The list of 231 localities used in the audit.*
 * **[List of queries (bilingual) (CSV)](./data/queries.csv)** *The list of 133 queries in English and Spanish.*
