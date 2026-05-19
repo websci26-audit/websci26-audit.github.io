@@ -7,6 +7,8 @@ title: Home
 
 This page serves as the supplementary data repository for the paper "Discrepancies in the Geotargeting of Spanish vs English Google Search Results During the 2024 US Elections", accepted for publication at the [18th ACM WebSci '26 conference](https://websci26.org/?page_id=724). 
 
+[📁 Download / Read the full PDF paper](gonzalez-howley-lurie-mustafaraj-websci26.pdf){: .btn style="display: inline-block; background-color: #00796b; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; margin: 15px 0;"}
+
 ---
 
 ## 📂 Supplementary Data Files
