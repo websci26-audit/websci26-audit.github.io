@@ -17,5 +17,3 @@ Please use the direct links below to access the files. They contain the informat
 * **[List of unique web domains (CSV)](./data/domains.json)** -- *The list of 929 governmental domains extracted from the SERP results.*
 
 
----
-
