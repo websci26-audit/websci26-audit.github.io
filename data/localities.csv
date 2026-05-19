@@ -1,0 +1,232 @@
+State,Jurisdiction,Population,Scraped?
+AZ,Maricopa ,3344296,TRUE
+AZ,Pima ,91587,TRUE
+AZ,Santa Cruz ,44474,TRUE
+AZ,Yuma ,57631,TRUE
+CA,Alameda ,396573,TRUE
+CA,Colusa ,12599,TRUE
+CA,Contra Costa ,503596,TRUE
+CA,Fresno ,739839,TRUE
+CA,Glenn ,18765,TRUE
+CA,Imperial ,64381,TRUE
+CA,Kern ,427331,TRUE
+CA,Kings ,70847,FALSE
+CA,Los Angeles ,2550009,TRUE
+CA,Madera ,98891,TRUE
+CA,Merced ,109257,TRUE
+CA,Monterey ,177183,TRUE
+CA,Napa ,117615,TRUE
+CA,Orange ,1688468,FALSE
+CA,Riverside ,480748,TRUE
+CA,Sacramento ,1196282,TRUE
+CA,San Benito ,57349,TRUE
+CA,San Bernardino,859308,TRUE
+CA,San Diego ,2406717,TRUE
+CA,San Francisco ,160497,TRUE
+CA,San Joaquin ,369644,TRUE
+CA,San Mateo ,406416,TRUE
+CA,Santa Barbara ,190627,TRUE
+CA,Santa Clara ,1779019,TRUE
+CA,Sonoma ,211197,TRUE
+CA,Stanislaus ,331920,TRUE
+CA,Tulare ,154043,TRUE
+CA,Ventura ,237578,TRUE
+CO,Adams ,114762,FALSE
+CO,Alamosa ,14825,TRUE
+CO,Conejos ,3705,TRUE
+CO,Costilla ,1812,TRUE
+CO,Denver ,710800,TRUE
+CO,Saguache ,3062,TRUE
+CT,Bridgeport ,"148,654",TRUE
+CT,East Hartford ,"51,045",TRUE
+CT,Hartford ,"121,054",TRUE
+CT,Meriden ,"60,850",TRUE
+CT,New Britain ,"74,135",TRUE
+CT,New Haven ,"135,081",TRUE
+CT,New London ,"27,367",TRUE
+CT,Norwalk ,"91,184",TRUE
+CT,Waterbury ,"115,016",TRUE
+CT,Windham ,"24,428",TRUE
+FL,Broward ,312047,TRUE
+FL,Collier ,72720,TRUE
+FL,DeSoto ,22874,TRUE
+FL,Hardee ,14179,TRUE
+FL,Hendry ,18701,TRUE
+FL,Hillsborough ,719728,TRUE
+FL,Lee ,214342,TRUE
+FL,Miami-Dade ,980585,TRUE
+FL,Orange ,652405,TRUE
+FL,Osceola ,204523,TRUE
+FL,Palm Beach ,341012,TRUE
+FL,Pinellas ,400410,TRUE
+FL,Polk ,275093,TRUE
+FL,Seminole ,219958,TRUE
+GA,Gwinnett ,255312,TRUE
+ID,Clark ,28,FALSE
+IL,Cook ,2721914,TRUE
+IL,DuPage ,149315,TRUE
+IL,Kane ,128101,TRUE
+IL,Lake ,90100,TRUE
+IL,Will ,88791,TRUE
+KS,Finney ,27933,TRUE
+KS,Ford ,27721,TRUE
+KS,Grant ,6778,TRUE
+KS,Haskell ,1945,TRUE
+KS,Seward ,19099,TRUE
+KS,Stevens ,4311,TRUE
+MD,Montgomery ,186916,TRUE
+MD,Prince George's ,93516,TRUE
+MA,Boston ,"650,706",TRUE
+MA,Chelsea ,"40,787",TRUE
+MA,Clinton ,"15,428",TRUE
+MA,Everett ,"49,075",TRUE
+MA,Fitchburg ,"41,946",TRUE
+MA,Holyoke ,"38,328",TRUE
+MA,Lawrence ,"89,143",TRUE
+MA,Leominster ,"43,646",TRUE
+MA,Lowell ,"115,554",TRUE
+MA,Lynn ,"101,253",TRUE
+MA,Methuen  ,"53,059",TRUE
+MA,Revere ,"62,186",TRUE
+MA,Salem ,"44,480",TRUE
+MA,Southbridge  ,"17,740",TRUE
+MA,Springfield ,"155,929",TRUE
+MA,Worcester ,"206,518",TRUE
+MI,Clyde,"5,523",TRUE
+MI,Covert,"2,510",TRUE
+MI,Fennville ,"1,745",TRUE
+NE,Colfax ,6516,FALSE
+NE,Dakota ,2857,FALSE
+NE,Dawson ,10662,FALSE
+NV,Clark ,251648,TRUE
+NJ,Bergen ,45758,TRUE
+NJ,Camden ,74934,TRUE
+NJ,Cumberland ,27523,TRUE
+NJ,Essex ,307355,TRUE
+NJ,Hudson ,287899,TRUE
+NJ,Middlesex ,107018,TRUE
+NJ,Passaic ,157864,TRUE
+NJ,Union ,135665,TRUE
+NM,Bernalillo ,638401,TRUE
+NM,Chaves ,48776,TRUE
+NM,Doña Ana ,107990,TRUE
+NM,Guadalupe ,3629,TRUE
+NM,Hidalgo ,3823,FALSE
+NM,Lea ,50167,TRUE
+NM,Mora ,3162,TRUE
+NM,San Miguel ,18645,TRUE
+NM,Socorro ,3003,TRUE
+NM,Taos ,17740,TRUE
+NY,Bronx ,1443229,TRUE
+NY,Kings ,2679620,TRUE
+NY,Monroe ,210992,TRUE
+NY,Nassau ,789763,TRUE
+NY,New York ,1645867,TRUE
+NY,Queens ,2360826,TRUE
+NY,Suffolk ,487162,TRUE
+NY,Westchester ,209780,TRUE
+OH,Cuyahoga ,370365,TRUE
+OK,Texas ,15702,TRUE
+PA,Berks ,94601,TRUE
+PA,Lehigh ,125292,TRUE
+PA,Philadelphia ,1593208,TRUE
+RI,Central Falls ,"22,583",TRUE
+RI,Pawtucket ,"75,604",TRUE
+RI,Providence ,"190,934",TRUE
+TX,Andrews ,14734,TRUE
+TX,Atascosa ,17900,TRUE
+TX,Bailey ,6474,TRUE
+TX,Bee ,26896,TRUE
+TX,Bexar ,684040,TRUE
+TX,Brewster ,9110,TRUE
+TX,Brooks ,409,TRUE
+TX,Caldwell ,28829,TRUE
+TX,Cameron ,218308,TRUE
+TX,Castro ,5356,TRUE
+TX,Cochran ,1827,TRUE
+TX,Concho ,2177,TRUE
+TX,Crane ,1401,TRUE
+TX,Crockett ,2797,TRUE
+TX,Crosby ,1954,TRUE
+TX,Culberson ,2160,TRUE
+TX,Dallam ,6328,TRUE
+TX,Dallas ,1589872,TRUE
+TX,Dawson ,10570,TRUE
+TX,Deaf Smith ,17901,TRUE
+TX,Denton ,274452,TRUE
+TX,Dimmit ,807,TRUE
+TX,Duval ,2801,TRUE
+TX,Ector ,126279,TRUE
+TX,Edwards ,1154,TRUE
+TX,El Paso ,520431,TRUE
+TX,Floyd ,3160,TRUE
+TX,Fort Bend ,207370,TRUE
+TX,Frio ,5291,TRUE
+TX,Gaines ,3839,TRUE
+TX,Garza ,2800,TRUE
+TX,Gonzales ,9357,TRUE
+TX,Hale ,2795,TRUE
+TX,Hansford ,1970,TRUE
+TX,Harris ,3458465,TRUE
+TX,Hidalgo ,284997,TRUE
+TX,Hockley ,16692,TRUE
+TX,Hudspeth ,1618,TRUE
+TX,Jeff Davis ,1856,TRUE
+TX,Jim Hogg ,4785,TRUE
+TX,Jim Wells ,27145,TRUE
+TX,Karnes ,6754,TRUE
+TX,Kenedy ,116,TRUE
+TX,Kinney ,3157,TRUE
+TX,Kleberg ,27934,TRUE
+TX,Knox ,1120,TRUE
+TX,Lamb ,6662,TRUE
+TX,La Salle ,5250,TRUE
+TX,Live Oak ,7323,TRUE
+TX,Lynn ,3952,TRUE
+TX,Martin ,3643,TRUE
+TX,Maverick ,56460,TRUE
+TX,Medina ,18733,TRUE
+TX,Menard ,220,TRUE
+TX,Moore ,18463,TRUE
+TX,Nueces ,304184,TRUE
+TX,Ochiltree ,9386,TRUE
+TX,Parmer ,4704,TRUE
+TX,Pecos ,12960,TRUE
+TX,Presidio ,2814,TRUE
+TX,Reagan ,3308,TRUE
+TX,Reeves ,702,TRUE
+TX,San Patricio ,22835,TRUE
+TX,Schleicher ,890,TRUE
+TX,Sherman ,1293,TRUE
+TX,Starr ,34894,TRUE
+TX,Sterling ,1392,TRUE
+TX,Sutton ,3261,TRUE
+TX,Tarrant ,944968,TRUE
+TX,Terrell ,122,TRUE
+TX,Terry ,10764,TRUE
+TX,Titus ,21460,TRUE
+TX,Travis ,905757,TRUE
+TX,Uvalde ,2256,TRUE
+TX,Val Verde ,46962,TRUE
+TX,Ward ,498,TRUE
+TX,Webb ,145899,TRUE
+TX,Willacy ,12853,TRUE
+TX,Winkler ,6561,TRUE
+TX,Yoakum ,5995,TRUE
+TX,Zapata ,811,TRUE
+TX,Zavala ,7415,TRUE
+UT,Salt Lake ,100474,TRUE
+VA,Fairfax ,130140,TRUE
+VA,Prince William ,75776,TRUE
+VA,Manassas ,"42,772",TRUE
+VA,Manassas Park ,"17,219",TRUE
+WA,Adams ,16166,TRUE
+WA,Franklin ,61790,TRUE
+WA,King ,1132351,TRUE
+WA,Yakima ,54097,TRUE
+WI,Abbotsford ,"2,275",TRUE
+WI,Arcadia ,"3,737",TRUE
+WI,Curtiss ,216,TRUE
+WI,Milwaukee ,"577,222",TRUE
+WI,Sharon ,"1,586",TRUE
+WI,West Milwaukee ,"4,114",TRUE
